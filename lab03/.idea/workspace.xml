@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb9a48d4-8a96-4b48-9695-5db8ac71484a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../demo/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fpoly/MathFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fpoly/Parameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fpoly/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fpoly/AllTestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fpoly/AllTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fpoly/MathFuncTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fpoly/PersonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab02/src/main/java/Caculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab02/src/main/java/Caculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab02/src/main/java/MathFunc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab02/src/main/java/MathFunc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab02/src/test/java/CaculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab02/src/test/java/CaculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab02/src/test/java/MathFuncTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab02/src/test/java/MathFuncTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab02/target/classes/Caculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab02/target/classes/Caculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab02/target/classes/MathFunc.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab02/target/classes/MathFunc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab02/target/test-classes/CaculatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab02/target/test-classes/CaculatorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab02/target/test-classes/MathFuncTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab02/target/test-classes/MathFuncTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26SivD60Nqk9PUGFBZOQEUQD5CZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="fpoly" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="fpoly" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Parameter.kiemTraGiaiThuaVoiNhieuThamSo">
+    <configuration name="MathFuncTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fpoly.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fpoly" />
+      <option name="MAIN_CLASS_NAME" value="fpoly.MathFuncTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathFuncTest.kiemtraTrycathch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fpoly.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fpoly" />
+      <option name="MAIN_CLASS_NAME" value="fpoly.MathFuncTest" />
+      <option name="METHOD_NAME" value="kiemtraTrycathch" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathFuncTest.kiemtraTrycathch1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fpoly.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fpoly" />
+      <option name="MAIN_CLASS_NAME" value="fpoly.MathFuncTest" />
+      <option name="METHOD_NAME" value="kiemtraTrycathch1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Parameter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fpoly.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fpoly" />
+      <option name="MAIN_CLASS_NAME" value="fpoly.Parameter" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Parameter.kiemTraGiaiThuaVoiNhieuThamSo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fpoly.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fpoly" />
+      <option name="MAIN_CLASS_NAME" value="fpoly.Parameter" />
+      <option name="METHOD_NAME" value="kiemTraGiaiThuaVoiNhieuThamSo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Parameter.kiemTraGiaiThuaVoiNhieuThamSo" />
+        <item itemvalue="JUnit.Parameter" />
+        <item itemvalue="JUnit.MathFuncTest" />
+        <item itemvalue="JUnit.MathFuncTest.kiemtraTrycathch1" />
+        <item itemvalue="JUnit.MathFuncTest.kiemtraTrycathch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb9a48d4-8a96-4b48-9695-5db8ac71484a" name="Changes" comment="" />
+      <created>1647423618633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647423618633</updated>
+      <workItem from="1647423620156" duration="1768000" />
+      <workItem from="1647427283038" duration="1124000" />
+      <workItem from="1647500134226" duration="165000" />
+      <workItem from="1647522458876" duration="3338000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,5 +1,6 @@
+package fpoly;
+
 import org.junit.*;
-import org.junit.rules.ErrorCollector;
 import org.junit.rules.ExpectedException;
 
 import static org.junit.Assert.*;

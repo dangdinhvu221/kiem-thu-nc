@@ -1,3 +1,5 @@
+package fpoly;
+
 public class MathFunc {
     int calls;
 

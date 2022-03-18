@@ -49,8 +49,4 @@ public class CaculatorTest {
         assertEquals(3, caculator.Chia(6,2));
 
     }
-
-    @Test
-    public void giaiPTBac2() {
-    }
 }
