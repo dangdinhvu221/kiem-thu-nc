@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/kiem-thu-intellij/AsmGD2/src/main/java/TC1_PH14036class.java">
+       <classes>
+           <class name="TC1_PH14036class"/>
+       </classes>
+    </test>
+    <test verbose="2" preserve-order="true" name="D:/kiem-thu-intellij/AsmGD2/src/main/java/TC2_PH14036class.java">
+        <classes>
+            <class name="TC2_PH14036class"/>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true" name="D:/kiem-thu-intellij/AsmGD2/src/main/java/TestDataBVA.java">
+        <classes>
+            <class name="TestDataBVA"/>
+        </classes>
+    </test>
+</suite>

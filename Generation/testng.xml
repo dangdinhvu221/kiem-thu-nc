@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="D:/kiem-thu-intellij/Generation/src/test/java/com/example/kiemTraTieuDe.java">
+        <classes>
+            <class name="com.example.kiemTraTieuDe">
+                <methods>
+                    <include name="kiemTraTieuDeAP"/>
+                    <include name="kiemTraTieuDeLMS"/>
+                    <include name="kiemTraTieuDeCMS"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="D:/kiem-thu-intellij/Generation/src/test/java/com/example/searchTestGG.java">
+        <classes>
+            <class name="com.example.searchTestGG">
+                <methods>
+                    <include name="searchInformationDHFPT"/>
+                    <include name="searchInformationCDFPT"/>
+                    <include name="searchInformation"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="D:/kiem-thu-intellij/Generation/src/test/java/com/example/thuethuncnTest.java">
+        <classes>
+            <class name="com.example.thuethuncnTest">
+                <methods>
+                    <include name="testThue"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

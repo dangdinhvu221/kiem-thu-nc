@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bfbe5e7d-84b7-48c6-941c-8fffaea4b926" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Generation/Test Results - kiemTraTieuDe_kiemTraTieuDeCMS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generation/src/main/java/com/example/thuethuncn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generation/src/test/java/com/example/kiemTraTieuDe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generation/src/test/java/com/example/searchTestGG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generation/src/test/java/com/example/thuethuncnTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab05/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab05/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab06/src/main/java/com/example/lab06/Bai1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab06/src/main/java/com/example/lab06/Bai2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab06/src/main/java/com/example/lab06/Bai3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab06/src/main/java/com/example/lab06/CheckUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab06/src/main/java/com/example/lab06/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assm/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assm/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assm/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assm/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assm/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assm/target/classes/com/poly/sof304/Dao/AccountDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assm/target/classes/com/poly/sof304/Dao/ShopDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assm/target/classes/com/poly/sof304/Entity/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assm/target/classes/com/poly/sof304/Helper/jdbcHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assm/target/classes/com/poly/sof304/Main/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/demo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/HelloApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/HelloResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/resources/META-INF/beans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/resources/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab03/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab03/src/main/java/fpoly/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab03/src/main/java/fpoly/Person.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="27Q9L9i8Eu5pP14YWzdJWQVnqna" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.591" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.591" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="lab7:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/lab7_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="lab7:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfbe5e7d-84b7-48c6-941c-8fffaea4b926" name="Default Changelist" comment="" />
+      <created>1649241385178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649241385178</updated>
+      <workItem from="1649241386292" duration="81000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

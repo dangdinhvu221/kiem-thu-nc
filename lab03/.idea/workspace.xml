@@ -5,29 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb9a48d4-8a96-4b48-9695-5db8ac71484a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../demo/demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fpoly/MathFunc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fpoly/Parameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fpoly/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fpoly/AllTestRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fpoly/AllTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fpoly/MathFuncTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fpoly/PersonTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02/src/main/java/Caculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab02/src/main/java/Caculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02/src/main/java/MathFunc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab02/src/main/java/MathFunc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02/src/test/java/CaculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab02/src/test/java/CaculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02/src/test/java/MathFuncTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab02/src/test/java/MathFuncTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02/target/classes/Caculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab02/target/classes/Caculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02/target/classes/MathFunc.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab02/target/classes/MathFunc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02/target/test-classes/CaculatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab02/target/test-classes/CaculatorTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab02/target/test-classes/MathFuncTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab02/target/test-classes/MathFuncTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoXoa/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoXoa/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoXoa/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoXoa/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoXoa/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoXoa/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoXoa/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab05/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab05/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assm/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assm/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assm/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assm/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assm/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assm/target/classes/com/poly/sof304/Dao/AccountDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assm/target/classes/com/poly/sof304/Dao/ShopDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assm/target/classes/com/poly/sof304/Entity/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assm/target/classes/com/poly/sof304/Helper/jdbcHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assm/target/classes/com/poly/sof304/Main/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fpoly/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fpoly/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +78,7 @@
       <recent name="fpoly" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Parameter.kiemTraGiaiThuaVoiNhieuThamSo">
+  <component name="RunManager" selected="JUnit.Parameter">
     <configuration name="MathFuncTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lab03" />
       <extension name="coverage">
@@ -161,8 +159,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Parameter.kiemTraGiaiThuaVoiNhieuThamSo" />
         <item itemvalue="JUnit.Parameter" />
+        <item itemvalue="JUnit.Parameter.kiemTraGiaiThuaVoiNhieuThamSo" />
         <item itemvalue="JUnit.MathFuncTest" />
         <item itemvalue="JUnit.MathFuncTest.kiemtraTrycathch1" />
         <item itemvalue="JUnit.MathFuncTest.kiemtraTrycathch" />
@@ -181,6 +179,7 @@
       <workItem from="1647427283038" duration="1124000" />
       <workItem from="1647500134226" duration="165000" />
       <workItem from="1647522458876" duration="3338000" />
+      <workItem from="1647597427232" duration="1822000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/kiem-thu-intellij/lab06/src/main/java/com/example/lab06/Bai3.java">
+        <parameter name="BrowserName" value="abc.com.vn"/>
+        <parameter name="username" value="abc"/>
+        <parameter name="password" value="123"/>
+        <classes>
+            <class name="com.example.lab06.Bai3">
+                <methods>
+                    <include name="openBrowser"/>
+                    <include name="FillLoginForm"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

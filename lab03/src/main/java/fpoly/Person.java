@@ -7,7 +7,7 @@ public class Person {
     public Person(String name, int age) {
         this.name = name;
         this.age = age;
-        if(age <= 0){
+        if(age <= 0 || age >= 68){
             throw new IllegalArgumentException("Invalid : " + age);
         }
     }
