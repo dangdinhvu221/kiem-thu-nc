@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]">
+  <test name="All(failed)">
+    <classes>
+      <class name="TC2_PH14036">
+        <methods>
+          <include name="afterTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- TC2_PH14036 -->
+      <class name="TC1_PH14036">
+        <methods>
+          <include name="afterTest"/>
+          <include name="setUp"/>
+          <include name="af"/>
+          <include name="testCreateAccount" invocation-numbers="0 1"/>
+        </methods>
+      </class> <!-- TC1_PH14036 -->
+    </classes>
+  </test> <!-- All(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
